@@ -1,0 +1,22 @@
+Strategy_1,Strategy_2,Correlation,Relationship,Diversification_Benefit
+Variance Swaps,VIX Calls,0.595,Positive,Medium
+Variance Swaps,ETF Arb,0.246,Neutral,High
+Variance Swaps,Skew Trading,0.495,Positive,Medium
+Variance Swaps,Calendar Spreads,0.767,Positive,Low
+Variance Swaps,Dispersion,0.083,Neutral,High
+Variance Swaps,Vol Factor Timing,0.255,Neutral,High
+VIX Calls,ETF Arb,0.266,Neutral,High
+VIX Calls,Skew Trading,0.791,Positive,Low
+VIX Calls,Calendar Spreads,-0.044,Neutral,High
+VIX Calls,Dispersion,0.443,Positive,Medium
+VIX Calls,Vol Factor Timing,-0.148,Negative,High
+ETF Arb,Skew Trading,0.72,Positive,Low
+ETF Arb,Calendar Spreads,0.349,Positive,Medium
+ETF Arb,Dispersion,0.645,Positive,Low
+ETF Arb,Vol Factor Timing,0.685,Positive,Low
+Skew Trading,Calendar Spreads,0.313,Positive,Medium
+Skew Trading,Dispersion,0.45,Positive,Medium
+Skew Trading,Vol Factor Timing,0.469,Positive,Medium
+Calendar Spreads,Dispersion,0.207,Neutral,High
+Calendar Spreads,Vol Factor Timing,0.178,Neutral,High
+Dispersion,Vol Factor Timing,-0.095,Neutral,High

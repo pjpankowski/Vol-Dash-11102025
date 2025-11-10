@@ -1,0 +1,9 @@
+Feature,Random_Forest_Importance,XGBoost_Importance,Feature_Category
+Lagged_Realized_Vol,0.049,0.1289,Vol
+VPIN_Toxicity,0.1316,0.0998,Microstructure
+Term_Structure_Slope,0.0932,0.2132,Vol
+Put_Call_Skew,0.0998,0.1279,Vol
+VIX_Level,0.1553,0.1064,Vol
+ETF_Premium,0.2075,0.0974,Microstructure
+Order_Imbalance,0.0987,0.0659,Microstructure
+Barra_Vol_Exposure,0.165,0.1605,Risk Factor

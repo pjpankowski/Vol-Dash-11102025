@@ -1,0 +1,2 @@
+Timestamp,VIX_Spot,SPX_Price,VIX_1M_Future,VIX_2M_Future,VIX_3M_Future,SPY_Price,SPY_NAV,SPY_Premium_bps,SPY_Creation_Units_Today,SPY_Redemption_Units_Today,QQQ_Price,Market_Status,Next_FOMC_Days,VRP_Current
+2025-11-10 21:18:55.732118,18.45,5847.25,19.8,21.15,22.4,584.5,584.35,2.57,45,38,512.8,US_OPEN,12,3.45

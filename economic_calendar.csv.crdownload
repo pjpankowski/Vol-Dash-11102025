@@ -1,0 +1,13 @@
+Event_Date,Event_Name,Priority,Days_Until,Expected_Impact,Avg_VIX_Move_Historical,Suggested_Strategy,Last_5_Events_Avg_Move
+2025-11-14,ISM Manufacturing,LOW,4,Low,1.13,Monitor closely,1.45
+2025-11-17,NFP Jobs Report,HIGH,7,High,2.7,Reduce vega 1-2 days before,3.19
+2025-11-20,CPI Release,MEDIUM,10,Medium,0.8,Monitor closely,2.05
+2025-11-24,FOMC Meeting,HIGH,14,High,3.55,Reduce vega 1-2 days before,2.09
+2025-11-27,Retail Sales,LOW,17,Low,0.62,Monitor closely,2.12
+2025-12-01,GDP Report,MEDIUM,21,Medium,0.87,Monitor closely,1.52
+2025-12-05,Consumer Confidence,LOW,25,Low,1.95,Monitor closely,2.51
+2025-12-08,PCE Inflation,MEDIUM,28,Medium,0.51,Monitor closely,2.96
+2025-12-15,NFP Jobs Report,HIGH,35,High,3.49,Reduce vega 1-2 days before,1.9
+2025-12-18,CPI Release,MEDIUM,38,Medium,0.83,Monitor closely,1.01
+2026-01-05,FOMC Meeting,HIGH,56,High,1.61,Reduce vega 1-2 days before,2.7
+2026-01-12,NFP Jobs Report,HIGH,63,High,3.46,Reduce vega 1-2 days before,2.24

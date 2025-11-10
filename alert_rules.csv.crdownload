@@ -1,0 +1,11 @@
+Alert_ID,Alert_Name,Condition,Priority,Action,Enabled
+1,VIX Backwardation,VIX_1M < VIX_Spot,HIGH,Consider long vol positions,True
+2,Extreme VRP,VRP > 4.5,MEDIUM,Initiate short vol strategies,True
+3,US-Europe Correlation Breakdown,US_EU_Correlation < 0.55,HIGH,Cross-regional arbitrage opportunity,True
+4,US-Asia Correlation Breakdown,US_Asia_Correlation < 0.50,MEDIUM,Monitor for spillover effects,True
+5,ETF Premium Threshold,ETF_Premium > 15 bps,HIGH,Execute ETF-NAV arbitrage,True
+6,VPIN Toxicity Spike,VPIN > 0.65,MEDIUM,"Widen spreads, reduce market-making",True
+7,Vega Limit Breach,Total_Vega > 100000,CRITICAL,Reduce vega exposure immediately,True
+8,Gamma Exposure Warning,Total_Gamma > 600,HIGH,Review gamma hedging frequency,True
+9,Variance Swap Convexity,Var_Swap_Convexity > 80th percentile,MEDIUM,Size variance swap positions,True
+10,Vol Regime Change,Regime changes to High Vol,HIGH,Adjust strategy mix for new regime,True

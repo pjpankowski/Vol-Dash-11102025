@@ -1,0 +1,31 @@
+Timestamp,Alert_ID,Alert_Name,Priority,Triggered_Value,Status,Action_Taken
+2025-11-10 21:18:55.749016,1,VIX Backwardation,HIGH,0.592,Acknowledged,Hedge executed
+2025-11-08 21:18:55.748015,7,Vega Limit Breach,CRITICAL,0.609,Acknowledged,No action required
+2025-11-05 21:18:55.750552,9,Variance Swap Convexity,MEDIUM,0.613,Resolved,Hedge executed
+2025-11-03 21:18:55.750262,7,Vega Limit Breach,CRITICAL,0.531,Resolved,Position adjusted
+2025-11-03 21:18:55.749618,3,US-Europe Correlation Breakdown,HIGH,0.743,Resolved,No action required
+2025-11-02 21:18:55.746794,7,Vega Limit Breach,CRITICAL,0.686,Resolved,Position adjusted
+2025-10-15 21:18:55.749965,4,US-Asia Correlation Breakdown,MEDIUM,0.664,Resolved,Monitoring
+2025-10-10 21:18:55.748671,2,Extreme VRP,MEDIUM,0.542,Resolved,No action required
+2025-10-05 21:18:55.749327,5,ETF Premium Threshold,HIGH,0.812,Active,Escalated to PM
+2025-10-01 21:18:55.748821,3,US-Europe Correlation Breakdown,HIGH,0.567,Active,Hedge executed
+2025-09-30 21:18:55.747850,6,VPIN Toxicity Spike,MEDIUM,0.713,Resolved,Monitoring
+2025-09-29 21:18:55.750409,4,US-Asia Correlation Breakdown,MEDIUM,0.836,Acknowledged,Position adjusted
+2025-09-27 21:18:55.749471,8,Gamma Exposure Warning,HIGH,0.858,Active,No action required
+2025-09-24 21:18:55.750117,3,US-Europe Correlation Breakdown,HIGH,0.756,Resolved,Position adjusted
+2025-09-22 21:18:55.751546,6,VPIN Toxicity Spike,MEDIUM,0.734,Active,Monitoring
+2025-09-22 21:18:55.751046,8,Gamma Exposure Warning,HIGH,0.689,Acknowledged,No action required
+2025-09-22 21:18:55.748219,9,Variance Swap Convexity,MEDIUM,0.788,Acknowledged,Escalated to PM
+2025-09-18 21:18:55.746369,3,US-Europe Correlation Breakdown,HIGH,0.755,Resolved,Hedge executed
+2025-09-14 21:18:55.747671,6,VPIN Toxicity Spike,MEDIUM,0.716,Acknowledged,Hedge executed
+2025-09-14 21:18:55.747442,8,Gamma Exposure Warning,HIGH,0.701,Resolved,Escalated to PM
+2025-09-13 21:18:55.750897,8,Gamma Exposure Warning,HIGH,0.817,Resolved,Monitoring
+2025-09-09 21:18:55.748515,5,ETF Premium Threshold,HIGH,0.785,Acknowledged,Monitoring
+2025-09-06 21:18:55.749180,4,US-Asia Correlation Breakdown,MEDIUM,0.642,Resolved,Position adjusted
+2025-09-02 21:18:55.748368,2,Extreme VRP,MEDIUM,0.59,Resolved,Monitoring
+2025-08-21 21:18:55.747218,9,Variance Swap Convexity,MEDIUM,0.621,Acknowledged,Escalated to PM
+2025-08-20 21:18:55.746986,8,Gamma Exposure Warning,HIGH,0.866,Active,Monitoring
+2025-08-18 21:18:55.751384,10,Vol Regime Change,HIGH,0.855,Resolved,Hedge executed
+2025-08-17 21:18:55.751192,3,US-Europe Correlation Breakdown,HIGH,0.748,Resolved,No action required
+2025-08-16 21:18:55.750695,5,ETF Premium Threshold,HIGH,0.673,Active,Hedge executed
+2025-08-14 21:18:55.749763,9,Variance Swap Convexity,MEDIUM,0.687,Acknowledged,Monitoring
