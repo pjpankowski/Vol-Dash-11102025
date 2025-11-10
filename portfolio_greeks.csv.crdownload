@@ -1,0 +1,5 @@
+Position,Vega,Gamma,Theta,Delta,VRP_Sensitivity
+VIX Calls,25000,150,-850,1250,0.85
+SPX Puts,18500,285,-1240,-8500,0.72
+Variance Swaps,42000,0,-120,0,1.45
+Vol Calendar Spread,-8500,-45,340,50,-0.35

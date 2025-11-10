@@ -1,0 +1,5 @@
+Signal_Type,Rationale,Expected_Return,Risk_Level
+Long VIX Call Spread,Term structure steep,8-12%,Medium
+Short Vol via Variance Swap,VRP elevated,15-20%,High
+Long Skew Trade,Put skew at 95th percentile,10-15%,Medium
+Dispersion Trade,Index vol rich vs single stock,5-8%,Low

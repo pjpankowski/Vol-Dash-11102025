@@ -1,0 +1,7 @@
+Factor,Exposure,Factor_Return,Contribution_to_Risk
+Volatility,1.85,0.0145,0.0268
+Momentum,-0.42,0.0089,0.0037
+Size,0.23,-0.0034,0.0008
+Value,-0.15,0.0012,0.0002
+Growth,0.67,0.0156,0.0104
+Beta,1.12,0.0201,0.0225
