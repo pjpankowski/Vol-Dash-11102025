@@ -4,7 +4,7 @@ All features accessible - No hidden tabs issue
 """
 
 # At the top, right after your title
-st.title("📊 Professional Volatility Analytics Platform")
+##st.title("📊 Professional Volatility Analytics Platform")
 
 # Add prominent banner with link
 st.markdown("""
