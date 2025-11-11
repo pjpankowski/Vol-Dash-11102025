@@ -1,4 +1,6 @@
 # At the top, right after your title
+import streamlit as st
+
 st.title("📊 Professional Volatility Analytics Platform")
 
 # Add prominent banner with link
