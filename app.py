@@ -3,6 +3,33 @@ FIXED: Professional Volatility Platform - Sidebar Navigation
 All features accessible - No hidden tabs issue
 """
 
+# At the top, right after your title
+st.title("📊 Professional Volatility Analytics Platform")
+
+# Add prominent banner with link
+st.markdown("""
+<div style='background: linear-gradient(135deg, #1E3A8A 0%, #3B82F6 100%); 
+            padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center;'>
+    <p style='color: white; font-size: 1.1rem; margin: 0;'>
+        🎨 <strong>Want the professional  Terminal UI?</strong>
+    </p>
+    <a href='https://vol-dash-html-version.vercel.app/' target='_blank' 
+       style='display: inline-block; margin-top: 10px; padding: 12px 24px; 
+              background: #FFD700; color: #1E3A8A; text-decoration: none; 
+              font-weight: 600; border-radius: 6px; font-size: 1.1rem;'>
+        🚀 View Professional Dashboard Version
+    </a>
+    <p style='color: #E5E7EB; font-size: 0.9rem; margin: 10px 0 0 0;'>
+        (Same analytics, optimized UI for presentations)
+    </p>
+</div>
+""", unsafe_allow_html=True)
+
+st.markdown("---")
+# Then continue with your regular content
+
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
